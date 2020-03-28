@@ -1,3 +1,3 @@
-# GUI LIBARY FOR EMBERD DEVICE
+# Gui Libary for Embedded-Device
 *KINK - BG5RMD*
 
